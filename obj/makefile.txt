@@ -1,0 +1,2 @@
+To compile, fix the paths to arm cross compiler. Then, simply make all
+It will create the binary in ../image folder.
